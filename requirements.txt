@@ -1,0 +1,6 @@
+fastapi==0.101.0
+pandas==2.0.3
+pymongo==4.4.1
+python-dotenv==1.0.0
+pytz==2023.3
+tqdm==4.66.0
